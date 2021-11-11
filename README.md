@@ -23,6 +23,8 @@
 	
 ---
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubyzee&show_icons=true&theme=dracula" alt="Egii Github Stats">
+  <br><br>
 
 ---
