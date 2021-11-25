@@ -1,7 +1,8 @@
 <!-- Your title -->
 ## Hi There, I'm Egii! Welcome to My GitHub profile. 👋 Nice to meet you.
 ---
-<img align="center" src="https://github.com/rubyzee/rubyzee/raw/main/banner.png" width="500"/>
+
+<img src="ttps://github.com/rubyzee/rubyzee/raw/main/banner.png"><br>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rubyzee&label=Profile%20views&color=0e75b6&style=flat" alt="rubyzee" /> </p>
