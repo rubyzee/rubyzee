@@ -1,10 +1,14 @@
 <!-- Your title -->
 ## Hi There, I'm Egii! Welcome to My GitHub profile. 👋 Nice to meet you.
----
-
-<img src="ttps://github.com/rubyzee/rubyzee/raw/main/banner.png"><br>
 
 ---
+
+<p align="center">
+  <img src="https://github.com/rubyzee/rubyzee/raw/main/banner.png"><br>
+</p>
+
+---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rubyzee&label=Profile%20views&color=0e75b6&style=flat" alt="rubyzee" /> </p>
 <p align="center">
 <a href="https://github.com/rubyzee"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
