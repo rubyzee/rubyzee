@@ -19,7 +19,7 @@
 **Talking about Personal Stuffs:**
 
 - 🌍 Country 🇮🇩
-- 🌐 [About My Project](https://t.me/MihuruAsahina)
+- 🌐 [About My Project](https://t.me/StrelicaRuby)
 - 📫 [Instagram](https://www.instagram.com/eggi.rd/) | [Telegram](https://t.me/mystrelica)
 - 🎼 [Rose, Gone](https://youtu.be/0Yn8-0nUiLk)
 - 🎮 [Mobile Legends: Bang Bang](https://m.mobilelegends.com/id)
