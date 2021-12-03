@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubyzee&show_icons=true&theme=dracula" alt="Egii Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubyzee&show_icons=true&theme=aura" alt="Egii Github Stats">
   <br><br>
 
 ---
