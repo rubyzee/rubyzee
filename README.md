@@ -29,7 +29,7 @@
 ---
 
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+    <summary>&#127942 <b>GitHub Stats</b></summary><br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rubyzee&show_icons=true&theme=aura" alt="Egii Github Stats">
 
@@ -38,6 +38,6 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/ruvyzee?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/rubyzee?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 ---
